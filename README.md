@@ -1,3 +1,12 @@
+# Viberate Task :: My Solution
+
+How to open?
+1. Clone this repository
+2. Open 'my-app' in code editor
+3. Run 'npm install' in terminal
+4. Run 'npm start' in terminal
+
+
 # Task
 
 Develop Artist page together with primary navigation using data from Mocky API (Primary navigation and Artist detail). Usage of React hooks is a must. Navigation should lead to Detail page of Each of three Artists. 
